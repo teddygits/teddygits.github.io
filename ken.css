@@ -1,0 +1,83 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html {
+  background: url(https://c1.staticflickr.com/3/2433/3978689771_12309e9ba6_b.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color:#;
+    }
+    h1 {
+      color: #C0C0C0;
+      text-shadow: 2px 2px 2px #1C8B85;
+    }
+    h2 {
+      color: #C0C0C0;
+      text-shadow: 2px 2px 2px #1C8B85;
+    }
+    p {
+      color: #C0C0C0;
+      text-shadow: 2px 2px 2px #1C8B85;
+    }
+    li {
+      color: #C0C0C0;
+      text-shadow: 2px 2px 2px #1C8B85;
+    }
+    header {
+        background-color:#;
+        padding:5px;
+        font-size: 30;
+        display: block;
+        width:100%;
+    }
+    nav {
+        line-height:;
+        background-color:#;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: inline;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }

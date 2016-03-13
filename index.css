@@ -1,0 +1,96 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+       background-image: url("http://2.bp.blogspot.com/-LoO2PKUatL8/Uhhsgh4yCyI/AAAAAAAAG6Q/YMuBGN-0n3g/s1600/DSC02651.JPG");
+       padding: 50px;
+    }
+
+    header {
+        background-color: #003166;
+        padding: 50px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        margin: 0px;
+        margin-bottom: 15px;
+        border: 5px solid #1C8B85;
+        font-size: 30px;
+        font-family: Helvetica;
+        color: white;
+        text-align: center;
+        display: block;;
+    }
+    nav {
+        float: left;
+        background-color: #003166;
+
+
+    }
+    .textbox{
+      border: 0px;
+      background-color: #efefef;
+      font: arial;
+      size: 12px;
+    }
+    .blueborder {
+      border: 5px solid #1C8B85;
+    }
+    .textwhite {
+      color: #FFFFFF;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        font-family: Helvetica;
+        color: white;
+        border-bottom: ;
+        list-style-type: none;
+        text-align: center;
+
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 40px 12px 12px;
+        vertical-align: middle;
+        text-align: center;
+        color: white;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+
+
+
+    }
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
